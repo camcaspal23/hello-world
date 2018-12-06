@@ -1,5 +1,5 @@
 # hello-world
-Sample Repository
+Just another Sample Repository
 
 
 Hola humanos!
